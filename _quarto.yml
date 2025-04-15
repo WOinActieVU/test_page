@@ -20,14 +20,14 @@ website:
       #   file: guides.qmd
     tools:
       - icon: github
-        href: https://github.com/ubvu/open-handbook
-        text: GitHub VU Open Handbook
+        href: https://github.com/WOinActieVU/test_page
+        text: VU WOinActie
       # - icon: rss
       #   href: https://quarto.org/docs/blog/index.xml
       #   text: Quarto Blog RSS
-  site-url: https://ubvu.github.io/handbook-template
-  repo-url: https://github.com/ubvu/handbook-template
-  issue-url: https://github.com/ubvu/handbook-template/issues/new/choose
+  site-url: https://woinactievu.github.io/test_page/
+  repo-url: https://github.com/WOinActieVU/test_page
+  issue-url: https://github.com/WOinActieVU/test_page/issues/new/choose
   repo-actions: [edit, issue]
   page-navigation: true
   bread-crumbs: true
